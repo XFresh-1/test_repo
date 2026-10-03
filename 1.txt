@@ -2,3 +2,5 @@ test case 1
 Test case title some title
 Steps to reptoduce 1 2 3
 test case 2
+
+info about test case 2
